@@ -1,4 +1,4 @@
-HistoryViewer
+Sitecore History Viewer
 =============
 
 This Tool allows users to view,search,sort Sitecore Databases History.
