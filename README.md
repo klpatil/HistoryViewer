@@ -18,17 +18,16 @@ This Tool allows users to view,search,sort Sitecore Databases History.
 ##How to Download and Install?
 
 ### Option 1
-1. If you would like to do it manually you can download files from here
-2. It contains one folder named as "packageshistory" which contains .aspx page with name as HistoryViewer.aspx.
-3. You can copy this folder and paste it in your Webroot\Sitecore\admin folder. [Just a note : you can deploy it on any directory you wish to. But better to put under admin folder as it is secure folder, and as this page is using Single file model. It won't restart/recycle your application.].
-4. Access your page using  http://<YOURHOSTNAME>/sitecore/admin/HistoryViewer/HistoryViewer.aspx
-5. That's it! Enjoy! :-)
+1. If you would like to do it manually you can download files from her
+2. Create folder named as "HistoryViewer" under <WEBROOT>\Sitecore\Admin copy all files to this folder.
+3. Access your page using  http://<YOURHOSTNAME>/sitecore/admin/HistoryViewer/HistoryViewer.aspx
+4. That's it! Enjoy! :-)
 
 ***
 
 ### Option 2
 1. Download Sitecore Package from Packages\V1 folder, Which will copy the files at required place.
-2. Once done, Just access your page using  http://<YOURHOSTNAME>/sitecore/admin/HistoryViewer/HistoryViewer.aspx
+2. Install using Sitecore Installation Wizard. Once done, Just access your page using  http://<YOURHOSTNAME>/sitecore/admin/HistoryViewer/HistoryViewer.aspx
 3. That's it! Enjoy! :-)
 
 
