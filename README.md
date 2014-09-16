@@ -3,7 +3,7 @@ Sitecore History Viewer
 
 This Tool allows users to view,search,sort Sitecore Databases History.
 
-![Sitecore History Viewer](https://sitecorebasics.files.wordpress.com/2014/09/history-viewer-first-cut1.gif "Sitecore History Viewer")
+![Sitecore History Viewer](https://sitecorebasics.files.wordpress.com/2014/09/history-viewer-first-cut.gif "Sitecore History Viewer")
 
 
 ##Main Features
